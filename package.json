@@ -1,0 +1,19 @@
+{
+    "name": "sloiftest",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "type": "module",
+    "dependencies": {
+        "openai": "^4.20.0"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "openiap": {
+        "language": "nodejs",
+        "typescript": false,
+        "daemon": false,
+        "chromium": false
+    }
+}
